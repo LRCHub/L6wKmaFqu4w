@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夏凪ぎ (Episode 9 Ver.)",
+  "base_artist": "やなぎなぎ、VISUAL ARTS / Key",
+  "createdAt": "2025-12-01T13:13:50.236315Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏凪ぎ - Episode 9 Ver.",
+      "artist": "やなぎなぎ, VISUAL ARTS / Key",
+      "has_synced": false,
+      "path": "select/pl_01_夏凪ぎ_-_Episode_9_Ver._やなぎなぎ,_VISUAL_ARTS___Key.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "夏凪ぎ",
+      "artist": "やなぎなぎ, VISUAL ARTS / Key",
+      "has_synced": false,
+      "path": "select/pl_02_夏凪ぎ_やなぎなぎ,_VISUAL_ARTS___Key.txt"
+    }
+  ]
+}
